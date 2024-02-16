@@ -1,0 +1,28 @@
+#frm{
+    padding: 20px;
+    border: 3px solid;
+    font-size: large;
+  }
+input:hover
+{
+  background-color: rgba(245, 186, 186, 0.959);
+}
+  #cart{
+    margin-top: 30px;
+    padding: 20px;
+    border: 3px solid;
+    background: rgb(235, 58, 146);
+  }
+  th, td, tr{
+    text-align: center;
+    border: 1px solid;
+  }
+ .header 
+ {
+  border: 2px solid;
+  border-color: black;
+  background-color: #f43695;
+  padding: 30px 40px;
+  color: rgb(96, 5, 138);
+  text-align: center; 
+ }
